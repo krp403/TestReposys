@@ -1,3 +1,9 @@
 This is a test file for kiran repository test. get this
 this is second line
+<<<<<<< HEAD
 fourth test
+=======
+
+5th line
+
+
